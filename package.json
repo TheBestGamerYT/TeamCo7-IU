@@ -1,0 +1,15 @@
+{
+  "name": "teamco7-iu",
+  "version": "1.0.0",
+  "description": "test of the bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MarkFGamer",
+  "license": "",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
+© 2018 GitHub, Inc.
